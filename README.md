@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsAmitgupta
+- <h1> its Amit Gupta </h1>
 - 👀 I’m interested in Technology
 - 🌱 I’m currently Developing Skills
 - 💞️ I’m looking to collaborate on Webdevelopment projects
