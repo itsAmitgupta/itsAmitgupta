@@ -1,3 +1,5 @@
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)
+
 <h1 align="center">Hi 👋, I'm Amit Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
